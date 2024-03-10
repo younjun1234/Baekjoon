@@ -8,7 +8,7 @@
 | 순번 | 문제 번호 | 문제 이름 | 풀이 링크 |
 |----------|----------|----------|----------|
 | 01 | 2557 | 	[Hello World](https://www.acmicpc.net/problem/2557) | [바로가기](https://github.com/younjun1234/Baekjoon/blob/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/Hello%20World.java)
-| 02 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [바로가기](https://github.com/younjun1234/Baekjoon/blob/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/A%2BB.java) |
+| 02 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [바로가기](https://github.com/younjun1234/Baekjoon/blob/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/A%2BB.java) |
 | 03 | 1001  | [A-B](https://www.acmicpc.net/problem/1001) | [바로가기](https://github.com/younjun1234/Baekjoon/blob/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/A-B.java) |
 | 04 | 10998 | [AxB](https://www.acmicpc.net/problem/10998) | [바로가기](https://github.com/younjun1234/Baekjoon/blob/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/AxB.java) |
 | 05 | 1008 | [A/B](https://www.acmicpc.net/problem/1008) | [바로가기](https://github.com/younjun1234/Baekjoon/blob/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/A'%5C'B.java) |
